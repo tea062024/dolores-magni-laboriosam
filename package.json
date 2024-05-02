@@ -1,6 +1,6 @@
 {
   "name": "@tea062024/dolores-magni-laboriosam",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -44,6 +44,14 @@
     "url": "https://github.com/tea062024/dolores-magni-laboriosam/issues"
   },
   "dependencies": {
-    "@npmtuanmap/psychic-guide": "npmtuanmap/psychic-guide"
+    "@npmtuanmap/aperiam-natus-quis-autem": "npmtuanmap/aperiam-natus-quis-autem",
+    "@npmtuanmap/ex-vel-expedita-impedit": "npmtuanmap/ex-vel-expedita-impedit",
+    "@npmtuanmap/psychic-guide": "npmtuanmap/psychic-guide",
+    "@npmtuanmap/recusandae-recusandae-nam-et": "npmtuanmap/recusandae-recusandae-nam-et",
+    "@npmtuanmap/sed-quo-nemo-rerum": "npmtuanmap/sed-quo-nemo-rerum",
+    "@npmtuanmap/tenetur-quisquam-quia-aliquam": "npmtuanmap/tenetur-quisquam-quia-aliquam",
+    "@npmtuanmap/ut-quas-amet-possimus": "npmtuanmap/ut-quas-amet-possimus",
+    "@npmtuanmap/velit-esse-velit-magnam": "npmtuanmap/velit-esse-velit-magnam",
+    "@npmtuanmap/velit-nobis-nostrum-nam": "npmtuanmap/velit-nobis-nostrum-nam"
   }
 }
