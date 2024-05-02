@@ -1,18 +1,49 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@tea062024/dolores-magni-laboriosam",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "scripts": {},
+  "author": "emparava9a",
   "license": "MIT",
+  "keywords": [
+    "eslintconfig",
+    "fastclone",
+    "private data",
+    "l10n",
+    "pnpm9",
+    "sigterm",
+    "es2018",
+    "mime",
+    "modules",
+    "picomatch",
+    "rm -fr",
+    "mapreduce",
+    "make dir",
+    "URLSearchParams",
+    "jwt",
+    "browserlist",
+    "environments",
+    "own",
+    "inference",
+    "hasOwn",
+    "loadbalancing",
+    "callbind",
+    "weakmap",
+    "electron",
+    "get",
+    "internal slot",
+    "stringifier"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/tea062024/dolores-magni-laboriosam.git"
+  },
+  "homepage": "https://github.com/tea062024/dolores-magni-laboriosam/#readme",
+  "bugs": {
+    "url": "https://github.com/tea062024/dolores-magni-laboriosam/issues"
   },
   "dependencies": {
-    
+    "@npmtuanmap/psychic-guide": "npmtuanmap/psychic-guide"
   }
 }
